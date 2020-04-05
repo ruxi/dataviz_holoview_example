@@ -13,8 +13,7 @@ Open jupyter notebook
     jupyter notebook
 ```
 
-[link to saved html output](docs/index.html?raw=true) (right click, download to desktop then open)
-
+[link to saved html output](https://ruxi.github.io/dataviz_holoview_example/) 
 
 
 
